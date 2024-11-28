@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1088655891204",
+    "firebase_url": "https://m-a-e-math-craft-newxis-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "m-a-e-math-craft-newxis",
+    "storage_bucket": "m-a-e-math-craft-newxis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088655891204:android:8f0d95c29fe9a657494e51",
+        "android_client_info": {
+          "package_name": "com.assignment.maemathcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088655891204-0lll0vmrk5avrfof1nahfsgcibeppvf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment.maemathcraft",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1088655891204-s19ktln2dqhc34av8a18653utvll8u37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhWlJY7TNMZFqjuy5quqUEl70BXWsSMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088655891204-s19ktln2dqhc34av8a18653utvll8u37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088655891204-8tcjogk6pudo0bfujtb4kk80agpia91b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.assignment.maemathcraft"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088655891204:android:615eb4c28a3b36e4494e51",
+        "android_client_info": {
+          "package_name": "com.mycompany.maemathcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088655891204-figv7ov12908u116lgni7umscha4oiia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.maemathcraft",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1088655891204-s19ktln2dqhc34av8a18653utvll8u37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhWlJY7TNMZFqjuy5quqUEl70BXWsSMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088655891204-s19ktln2dqhc34av8a18653utvll8u37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088655891204-8tcjogk6pudo0bfujtb4kk80agpia91b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.assignment.maemathcraft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

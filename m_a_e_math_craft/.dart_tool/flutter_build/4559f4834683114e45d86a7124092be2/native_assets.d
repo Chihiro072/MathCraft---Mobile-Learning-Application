@@ -1,0 +1,1 @@
+ C:\\MAE\\m_a_e_math_craft\\m_a_e_math_craft\\.dart_tool\\flutter_build\\4559f4834683114e45d86a7124092be2\\native_assets.yaml: 

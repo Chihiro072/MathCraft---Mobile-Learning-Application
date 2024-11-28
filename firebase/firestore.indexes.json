@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Question",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "question",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Id",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

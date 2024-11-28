@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1088655891204-8tcjogk6pudo0bfujtb4kk80agpia91b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1088655891204-8tcjogk6pudo0bfujtb4kk80agpia91b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1088655891204-0lll0vmrk5avrfof1nahfsgcibeppvf0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_7uwBelzN7mPFuGODLejQbh7eRpA7oMQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1088655891204</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.assignment.maemathcraft</string>
+	<key>PROJECT_ID</key>
+	<string>m-a-e-math-craft-newxis</string>
+	<key>STORAGE_BUCKET</key>
+	<string>m-a-e-math-craft-newxis.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1088655891204:ios:28e66b134e15b29d494e51</string>
+	<key>DATABASE_URL</key>
+	<string>https://m-a-e-math-craft-newxis-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
